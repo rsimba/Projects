@@ -1,4 +1,0 @@
-hostname S1
-no ip domain-name lookup
-line vty 0
- exec-timout 0 0
